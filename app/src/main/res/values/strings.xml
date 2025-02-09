@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rice_and_curry">Rice And Curry</string>
+    <string name="Kottu" />
+    <string name="Rice" />
+    <string name="burgers">Burgers</string>
+    <string name="hot_buergers">Hot Buergers</string>
+    <string name="hot_burger" />
+    <string name="burger">Burger</string>
+    <string name="beverages">Beverages</string>
+    <string name="Cake" />
+    <string name="cake">Cake</string>
+    <string name="pasta">Pasta</string>
+    <string name="kk_food_restuarent">KK Food Restuarent</string>
+    <string name="logout">LOGOUT</string>
+    <string name="fishriceandcurry">FishRiceAndCurry</string>
+    <string name="chickenriceandcurry">ChickenRiceAndCurry</string>
+    <string name="eggriceandcurry" />
+    <string name="Chickenrice" />
+    <string name="Mixrice" />
+    <string name="Vegitablerice" />
+    <string name="peachicetea">PeachIceTea</string>
+</resources>
